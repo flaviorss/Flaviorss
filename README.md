@@ -5,7 +5,7 @@
 ### About me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/flaviorss)](https://github.com/flaviorss)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Lhttps://www.linkedin.com/in/flávio-rodrigo-silveira-santos-799428209/)](https://www.linkedin.com/in/flávio-rodrigo-silveira-santos-799428209/)
 
 ### Languages and Tools:
 
@@ -20,7 +20,6 @@
   <img align="center" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" height="25" src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white">
 </div><br>
 
 - Thanks for visiting! 💻
